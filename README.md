@@ -1,4 +1,5 @@
-# pait - FRONT 
+# pait-front-vue
+
 ## Project setup
 ```
 npm install
