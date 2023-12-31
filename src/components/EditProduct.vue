@@ -68,4 +68,5 @@ export default {
         console.log('Componente Editar');
     }
 };
+
 </script>
