@@ -1,5 +1,4 @@
-# pai-crud
-
+# pait - FRONT 
 ## Project setup
 ```
 npm install
